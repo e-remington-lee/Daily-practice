@@ -22,7 +22,7 @@ function getData(err, data, response) {
     
     console.log(tweet[i].text)
     console.log(x)
-    x += 2;
+    x += 3;
     };
 }
 
